@@ -31,7 +31,7 @@
 | ---- | ----------------------- | ------------------------------------------- |
 | CPU  | AMD Ryzen 9 5900X       | AMD Ryzen 9 3900X                           |
 | 内存 | 64GB DDR4 3600MHz       | 64GB DDR4 3200MHz                           |
-| GPU  | NVIDIA GeForce RTX 3090 | NVIDIA GeForce RTX 3090 <br>*(即将更换为RTX 3060)* |
+| GPU  | NVIDIA GeForce RTX 3090 | NVIDIA GeForce RTX 3090 |
 
 ## 隐私安全
 
