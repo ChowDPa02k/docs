@@ -230,8 +230,8 @@ GZHU High Performance Computing Matrix
 | CPU | <img src="https://render.githubusercontent.com/render/math?math=\geq">9700K | <img src="https://render.githubusercontent.com/render/math?math=\geq">3700X  | \                                                                           |
 | GPU | \                                                                           | <img src="https://render.githubusercontent.com/render/math?math=\geq">5700XT | <img src="https://render.githubusercontent.com/render/math?math=\geq">2080S |
 
-> 注：以上举例仅为性能基准，不代表具体配件要求
-> 桌面、服务器平台优先（相对于笔记本等移动平台）
+> 注：以上举例仅为性能基准，不代表具体配件要求  
+> 桌面、服务器平台优先（相对于笔记本等移动平台）  
 > Windows、Linux系统优先（相对于Mac OS）
 
 如果你恰巧拥有这样的条件，请放开束缚，尽管扫描上面的二维码联系项目发起者！我们欢迎你的到来！
