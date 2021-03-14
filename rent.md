@@ -209,12 +209,10 @@ Python脚本将会在Ubuntu 20.04以及anaconda虚拟环境中运行，推荐提
 ## 加入我们
 
 <!-- $\Huge GZHU$ $\Huge HPCM$ -->
-<br>
-<img src="https://render.githubusercontent.com/render/math?math=\Huge GZHU"> <img src="https://render.githubusercontent.com/render/math?math=\Huge HPCM">
+<img src="https://render.githubusercontent.com/render/math?math=\Huge GZHU"><img src="https://render.githubusercontent.com/render/math?math=\Huge HPCM">
 
-广州大学高性能计算矩阵<br>
+广州大学高性能计算矩阵  
 GZHU High Performance Computing Matrix
-<br>
 
 如果你身为一个高性能计算机持有者，看到了这一篇文章，欢迎你联系我们，加入这个完全由个人发起、没有任何商业化赞助、不依靠教学经费支持的独立组织，和我们一起共同完成造福广大学子~~并且还能顺便赚一点外快~~的项目！我们承诺，订单产生的费用100%归完成委托的机主所有。
 
