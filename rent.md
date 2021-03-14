@@ -208,18 +208,25 @@ Python脚本将会在Ubuntu 20.04以及anaconda虚拟环境中运行，推荐提
 
 ## 加入我们
 
-$GZHU$ $HPCM$
-广州大学高性能计算矩阵 (GZHU High Performance Computing Matrix)
+<!-- $\Huge GZHU$ $\Huge HPCM$ -->
+<br>
+<center>
+<img src="https://render.githubusercontent.com/render/math?math=\Huge GZHU"> <img src="https://render.githubusercontent.com/render/math?math=\Huge HPCM">
+
+广州大学高性能计算矩阵
+GZHU High Performance Computing Matrix
+</center>
+<br>
 
 如果你身为一个高性能计算机持有者，看到了这一篇文章，欢迎你联系我们，加入这个完全由个人发起、没有任何商业化赞助、不依靠教学经费支持的独立组织，和我们一起共同完成造福广大学子~~并且还能顺便赚一点外快~~的项目！我们承诺，订单产生的费用100%归完成委托的机主所有。
 
 不仅如此，我们还能够交流和探讨各种关于PCDIY、游戏、数码和更多有意思的话题，共同完成一些非常有趣的企划。不仅在广州大学范围内，我们更加希望有朝一日，这个组织能够化身成为广州大学**城**高性能计算矩阵。
 
 我们预期加入的成员拥有的性能水平如下：
-|     | Intel        | AMD           | NVIDIA       |
-|-----|--------------|---------------|--------------|
-| CPU | $\geq$ 9700K | $\geq$ 3700X  | \            |
-| GPU | \            | $\geq$ 5700XT | $\geq$ 2080S |
+|     | Intel                                                                       | AMD                                                                          | NVIDIA                                                                      |
+|-----|-----------------------------------------------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| CPU | <img src="https://render.githubusercontent.com/render/math?math=\geq">9700K | <img src="https://render.githubusercontent.com/render/math?math=\geq">3700X  | \                                                                           |
+| GPU | \                                                                           | <img src="https://render.githubusercontent.com/render/math?math=\geq">5700XT | <img src="https://render.githubusercontent.com/render/math?math=\geq">2080S |
 
 > 注：以上举例仅为性能基准，不代表具体配件要求
 > 桌面、服务器平台优先（相对于笔记本等移动平台）
