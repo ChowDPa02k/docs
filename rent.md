@@ -108,6 +108,8 @@ Adobe Premiere或者Davinci resolve等非线编的视频项目导出，或者联
 
 Python脚本将会在Ubuntu 20.04以及anaconda虚拟环境中运行，推荐提交ipynb笔记本
 
+Tensorflow的CUDA兼容性特殊，则使用官方的Docker镜像
+
 为避免平台差异导致运行出错，涉及本地文件时，请使用相对路径
 
 提交脚本时，请附加对应的requirements.txt
