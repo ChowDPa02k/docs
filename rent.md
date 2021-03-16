@@ -156,7 +156,7 @@ Tensorflow的CUDA兼容性特殊，则使用官方的Docker镜像
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\Huge GZHU"><img src="https://render.githubusercontent.com/render/math?math=\Huge HPCM"></p>
   
 <p align="center">
-广州大学高性能计算矩阵<br/>
+广大高性能计算矩阵<br/>
 GZHU High Performance Computing Matrix
 </p>
 
